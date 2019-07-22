@@ -3,6 +3,8 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.ListIterator;
 
+
+
 public class ArrayListIterate {
 	 */
 	public static void main(String[] args) {
