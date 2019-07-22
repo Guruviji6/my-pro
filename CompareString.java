@@ -9,6 +9,7 @@ public class CompareString {
 		System.out.println("Chk: "+chk);
 	}
 	
+
 	public static boolean comparePatientId(String fromPatId, String toPatId) {
 		int comp = toPatId.compareTo(fromPatId);
 		System.out.println("comp: "+comp);
