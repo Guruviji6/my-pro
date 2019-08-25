@@ -7,7 +7,6 @@ import java.util.ListIterator;
 
 public class ArrayListIterate {
 	 */
-
 	public static void main(String[] args) {
 		/*ArrayList<String> a = new ArrayList<String>();
 		a.add("1");
